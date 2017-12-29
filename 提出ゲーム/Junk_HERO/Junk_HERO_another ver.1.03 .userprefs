@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/C#/FreeField.cs">
+    <Files>
+      <File FileName="Assets/C#/Player_Move.cs" Line="217" Column="41" />
+      <File FileName="Assets/C#/Player_S_Select.cs" Line="31" Column="1" />
+      <File FileName="Assets/C#/All_Relase.cs" Line="42" Column="36" />
+      <File FileName="Assets/C#/Ak_Con.cs" Line="38" Column="18" />
+      <File FileName="Assets/C#/Junk_Break.cs" Line="46" Column="25" />
+      <File FileName="Assets/C#/Break.cs" Line="63" Column="38" />
+      <File FileName="Assets/C#/FreeField.cs" Line="18" Column="59" />
+      <File FileName="Assets/C#/Janks_Con.cs" Line="83" Column="34" />
+      <File FileName="Assets/C#/Scene_Change.cs" Line="126" Column="1" />
+      <File FileName="Assets/C#/Player_Attack.cs" Line="115" Column="94" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

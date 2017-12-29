@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cefe4567e93bac54480f2b19f9db2d03
+timeCreated: 1499059982
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Two_Junks: {fileID: 1991209308205284, guid: 8d298bb3cc66f4659b947b441bcbe9ca,
+      type: 2}
+  - Ten_Junks: {fileID: 1801971655772230, guid: e88d119ac5f544666a451086b59b6d5d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

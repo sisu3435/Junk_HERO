@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4079cbfbe83424ef5a257ba2e5e2c40d
+timeCreated: 1494145551
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shot: {instanceID: 0}
+  - Bullet: {fileID: 1969087858124458, guid: 834167aa08de3ab4996317484e8d8847, type: 2}
+  - S1: {instanceID: 0}
+  - S2: {fileID: 1614244386869890, guid: 991702d8bf2f940c4811d2c291b7d1ed, type: 2}
+  - FinalAttack: {instanceID: 0}
+  - MainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

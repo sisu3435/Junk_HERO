@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/C#/Player_Controll.cs">
+    <Files>
+      <File FileName="Assets/C#/Player_Controll.cs" Line="205" Column="48" />
+      <File FileName="Assets/C#/Ak_Con.cs" Line="24" Column="38" />
+      <File FileName="Assets/C#/Shoot_Con.cs" Line="35" Column="53" />
+      <File FileName="Assets/C#/Janks_Con.cs" Line="30" Column="3" />
+      <File FileName="Assets/C#/Delete_Interval.cs" Line="30" Column="32" />
+      <File FileName="Assets/C#/Jank_Release.cs" Line="22" Column="1" />
+      <File FileName="../../../../Volumes/157009/2nen/sisaku/Assets/8_act/C#/Move.cs" Line="6" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

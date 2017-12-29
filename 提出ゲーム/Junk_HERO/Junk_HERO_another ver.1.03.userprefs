@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\C#\Janks_Con.cs">
+    <Files>
+      <File FileName="Assets\C#\Janks_Con.cs" Line="65" Column="4" />
+      <File FileName="Assets\C#\Junks_Lighting.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\NextStage.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\OpenSwich.cs" Line="1" Column="1" />
+      <File FileName="Assets\C#\PC_Canvas_Controll.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Owner\Desktop\Junk_HERO_another ver.1.03\Assets\C#\Event_Delete3.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
